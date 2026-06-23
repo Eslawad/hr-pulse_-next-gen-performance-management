@@ -1,20 +1,35 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# AI-Powered Web Application
 
-# Run and deploy your AI Studio app
+## Overview
 
-This contains everything you need to run your app locally.
+This project is a modern web application built using JavaScript and Node.js, designed to provide an interactive and user-friendly experience. The application integrates AI capabilities through the Gemini API to deliver intelligent responses and dynamic functionality.
 
-View your app in AI Studio: https://ai.studio/apps/e7001630-21d3-40d6-8c73-33d617d87ab2
+## Features
 
-## Run Locally
+- Responsive and intuitive user interface
+- AI-powered content generation and interactions
+- Fast and efficient performance
+- Secure API integration
+- Easy deployment and local development setup
 
-**Prerequisites:**  Node.js
+## Tech Stack
 
+- JavaScript
+- Node.js
+- HTML5
+- CSS3
+- Gemini API
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Installation
+
+### Prerequisites
+
+- Node.js (Latest LTS version recommended)
+- npm
+
+### Setup
+
+1. Clone the repository:
+
+```bash
+git clone <repository-url>
